@@ -1,4 +1,4 @@
-# Aplikasi Penjualan Sederhana Sembako Asataurani
+# Website Penjualan Sederhana Sembako Asataurani
 
 Aplikasi ini dibuat menggunakan **PHP Native** dan **MySQL**, 
 bertujuan untuk mempermudah pengelolaan data penjualan, pembeli, 
