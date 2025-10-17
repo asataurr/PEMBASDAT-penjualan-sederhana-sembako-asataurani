@@ -10,9 +10,6 @@ serta laporan transaksi di toko sembako.
 - CRUD data menggunakan PHP & MySQL
 - Desain sederhana dan mudah digunakan
 
-## 🖼️ Tampilan Aplikasi
-![Dashboard](screenshots/dashboard.png)
-
 
 ## 🧩 Teknologi
 - PHP 8
