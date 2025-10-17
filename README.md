@@ -6,7 +6,7 @@ serta laporan transaksi di toko sembako.
 
 ## 💡 Fitur Utama
 - Kelola data barang, pembeli, dan transaksi
-- Cetak laporan penjualan
+- Cetak laporan transaksi penjualan
 - CRUD data menggunakan PHP & MySQL
 - Desain sederhana dan mudah digunakan
 
