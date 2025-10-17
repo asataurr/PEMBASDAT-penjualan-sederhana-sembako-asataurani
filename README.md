@@ -11,6 +11,7 @@ serta laporan transaksi di toko sembako.
 - Desain sederhana dan mudah digunakan
 
 ## 🖼️ Tampilan Aplikasi
+![Dashboard](screenshots/dashboard.png)
 
 
 ## 🧩 Teknologi
